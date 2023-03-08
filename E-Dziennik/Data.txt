@@ -1,0 +1,7 @@
+student Daniel Sek Wyry 13.09.2002 seki 10010010099 300123 2B Physics 0 Polish 0 
+student Dawid Jeziorski Warszawa 12.05.2002 haslo1 03356601278 300758 1C Spanish 5 6 3 0 English 5 4 5 0 Maths 1 6 3 5 5 0 
+worker Daria Cichopek Mikolow 30.12.1990 hihi 19530261740 123123 Cleaner
+worker Pawel Michalak Katowice 16.06.1965 huhu 12212210981 100101 Accountant
+teacher Katarzyna Kowalska Laziska 15.03.1980 haslo2 19530123341 100000 Teacher Maths
+teacher Piotr Kopanski Mikolow 10.03.2012 hehe 19345612901 110000 Teacher Polish
+teacher Karolina Samczyk Lublin 13.04.1988 samczyk12 19933445510 100001 Teacher Chemistry
